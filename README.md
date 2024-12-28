@@ -39,3 +39,7 @@ The analysis is based on a dataset that includes key metrics related to employme
 ### Data Overview:
 
 ![Dataset Overview](data_info.png)
+
+## **View More Projects**
+
+If you want to view this project and others in a more colorful and interactive way, please visit my [Data Portfolio](https://evening-colt-8b1.notion.site/f595dd3847084e6bbee23433c7118572?v=24103cd1dfd04f51951c0602ad5aadd5).
