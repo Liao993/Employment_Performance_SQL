@@ -1,10 +1,10 @@
 # Employment Performance Analysis Portfolio
 
+![EWmployment](Employment.png)
+
 ## **Introduction and Goal**
 
 This project explores workforce dynamics through comprehensive analyses of critical metrics such as engagement, productivity, and compensation. The goal is to uncover strategies that enhance workforce effectiveness, improve employee satisfaction, and drive organizational success in a competitive landscape.
-
----
 
 ## **Process and Tools**
 
