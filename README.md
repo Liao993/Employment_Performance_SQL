@@ -38,6 +38,4 @@ The analysis is based on a dataset that includes key metrics related to employme
 
 ### Data Overview:
 
-```
 ![Dataset Overview](data_info.png)
-```
