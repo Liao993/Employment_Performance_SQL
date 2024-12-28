@@ -1,6 +1,6 @@
 # Employment Performance Analysis Portfolio
 
-![EWmployment](Employment.png)
+![Employment Overview](Employment.png)
 
 ## **Introduction and Goal**
 
